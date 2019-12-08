@@ -3,26 +3,26 @@ Design using a Finite State Machine Approach (FSM) Traffic Light Controller.
 
 ## Requirement  
 <p align="center">
-  <img width="349" height="=228" src="https://github.com/jason9829/AlteraDE1_TrafficLightController/blob/master/images/CrossSectionOfTraffic.png">
+  <img width="349" height="=228" src="https://github.com/jason9829/AlteraDE1_TrafficLightController/blob/master/resources/images/CrossSectionOfTraffic.png">
 </p>  
 <div align="center">
-  Figure 1. Cross section of the road. 
+  Figure 1. Cross section of the road from [1.]. 
 </div>
 
 <br />
 <p align="center">
-  <img width="257" height="=159" src="https://github.com/jason9829/AlteraDE1_TrafficLightController/blob/master/images/StateTable.png">
+  <img width="257" height="=159" src="https://github.com/jason9829/AlteraDE1_TrafficLightController/blob/master/resources/images/StateTable.png">
 </p>
 <div align="center">
-  Figure 2. State table of the controller. 
+  Figure 2. State table of the controller from [1.]. 
 </div>  <br />
 
 
 <p align="center">
-  <img width="300" height="250" src="https://github.com/jason9829/AlteraDE1_TrafficLightController/blob/master/images/StateDiagram.png">
+  <img width="300" height="250" src="https://github.com/jason9829/AlteraDE1_TrafficLightController/blob/master/resources/images/StateDiagram.png">
 </p>
 <div align="center">
-  Figure 3. State diagram of the controller.
+  Figure 3. State diagram of the controller from [1.].
 </div>  <br /> <br />
 
 
@@ -41,3 +41,6 @@ S2 to S3 = 20s delay. S4 to S0 = 10s delay.
 6. Display a count-down timer on two HEX for all delays stated in 5. 
 7. Display “Hr GO” during state S0 and “Cr GO” during state S3. 8. Display “STOP” on HEX [3:0] for 5s during S2 to S3. Blinking the word 
 “STOP” ON and OFF. 9. State diagram and state definitions for the traffic signal controller are as shown in Fig. 7B below:-
+
+**References**  
+[1.] [Lab Manual](https://github.com/jason9829/AlteraDE1_TrafficLightController/blob/master/resources/pdf/BAME2004%20%40%20LAB%202018.doc.pdf)
