@@ -42,5 +42,5 @@ S2 to S3 = 20s delay. S4 to S0 = 10s delay.
 7. Display “Hr GO” during state S0 and “Cr GO” during state S3. 8. Display “STOP” on HEX [3:0] for 5s during S2 to S3. Blinking the word 
 “STOP” ON and OFF. 9. State diagram and state definitions for the traffic signal controller are as shown in Fig. 7B below:-
 
-**References**  
+## References
 [1.] [Lab Manual](https://github.com/jason9829/AlteraDE1_TrafficLightController/blob/master/resources/pdf/BAME2004%20%40%20LAB%202018.doc.pdf)
